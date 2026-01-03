@@ -1,0 +1,12 @@
+{
+  "name": "steam-god-script",
+  "version": "1.0.0",
+  "description": "Build script for Steam God UserScript",
+  "main": "script/god-of-steam.js",
+  "scripts": {
+    "build": "node script/build.js"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.0"
+  }
+}
